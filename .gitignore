@@ -77,6 +77,9 @@ web_modules/
 # Next.js build output
 .next
 out
+.vercel/
+*.pem
+*.key
 
 # Nuxt.js build / generate output
 .nuxt
